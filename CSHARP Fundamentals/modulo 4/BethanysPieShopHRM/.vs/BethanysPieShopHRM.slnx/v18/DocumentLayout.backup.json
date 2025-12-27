@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Win10\\Documents\\2025_PLURALSIGHT_C#\\CSHARP Fundamentals\\modulo 4\\BethanysPieShopHRM\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{39B43CE1-8BDB-42DE-9CE5-C131EDA7B595}|BethanysPieShopHRM\\BethanysPieShopHRM.csproj|c:\\users\\win10\\documents\\2025_pluralsight_c#\\csharp fundamentals\\modulo 4\\bethanyspieshophrm\\bethanyspieshophrm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39B43CE1-8BDB-42DE-9CE5-C131EDA7B595}|BethanysPieShopHRM\\BethanysPieShopHRM.csproj|solutionrelative:bethanyspieshophrm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Win10\\Documents\\2025_PLURALSIGHT_C#\\CSHARP Fundamentals\\modulo 4\\BethanysPieShopHRM\\BethanysPieShopHRM\\Program.cs",
+              "RelativeDocumentMoniker": "BethanysPieShopHRM\\Program.cs",
+              "ToolTip": "C:\\Users\\Win10\\Documents\\2025_PLURALSIGHT_C#\\CSHARP Fundamentals\\modulo 4\\BethanysPieShopHRM\\BethanysPieShopHRM\\Program.cs*",
+              "RelativeToolTip": "BethanysPieShopHRM\\Program.cs*",
+              "ViewState": "AgIAAKwAAAAAAAAAAAAAAMIAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-21T22:47:18.117Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

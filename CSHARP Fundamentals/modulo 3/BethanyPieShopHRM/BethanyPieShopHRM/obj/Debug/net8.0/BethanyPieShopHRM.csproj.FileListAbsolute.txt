@@ -1,0 +1,15 @@
+C:\Users\Win10\Documents\2025_PLURALSIGHT_C#\CSHARP Fundamentals\BethanyPieShopHRM\BethanyPieShopHRM\obj\Debug\net8.0\BethanyPieShopHRM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Win10\Documents\2025_PLURALSIGHT_C#\CSHARP Fundamentals\BethanyPieShopHRM\BethanyPieShopHRM\obj\Debug\net8.0\BethanyPieShopHRM.AssemblyInfoInputs.cache
+C:\Users\Win10\Documents\2025_PLURALSIGHT_C#\CSHARP Fundamentals\BethanyPieShopHRM\BethanyPieShopHRM\obj\Debug\net8.0\BethanyPieShopHRM.AssemblyInfo.cs
+C:\Users\Win10\Documents\2025_PLURALSIGHT_C#\CSHARP Fundamentals\BethanyPieShopHRM\BethanyPieShopHRM\obj\Debug\net8.0\BethanyPieShopHRM.csproj.CoreCompileInputs.cache
+C:\Users\Win10\Documents\2025_PLURALSIGHT_C#\CSHARP Fundamentals\BethanyPieShopHRM\BethanyPieShopHRM\obj\Debug\net8.0\BethanyPieShopHRM.sourcelink.json
+C:\Users\Win10\Documents\2025_PLURALSIGHT_C#\CSHARP Fundamentals\BethanyPieShopHRM\BethanyPieShopHRM\bin\Debug\net8.0\BethanyPieShopHRM.exe
+C:\Users\Win10\Documents\2025_PLURALSIGHT_C#\CSHARP Fundamentals\BethanyPieShopHRM\BethanyPieShopHRM\bin\Debug\net8.0\BethanyPieShopHRM.deps.json
+C:\Users\Win10\Documents\2025_PLURALSIGHT_C#\CSHARP Fundamentals\BethanyPieShopHRM\BethanyPieShopHRM\bin\Debug\net8.0\BethanyPieShopHRM.runtimeconfig.json
+C:\Users\Win10\Documents\2025_PLURALSIGHT_C#\CSHARP Fundamentals\BethanyPieShopHRM\BethanyPieShopHRM\bin\Debug\net8.0\BethanyPieShopHRM.dll
+C:\Users\Win10\Documents\2025_PLURALSIGHT_C#\CSHARP Fundamentals\BethanyPieShopHRM\BethanyPieShopHRM\bin\Debug\net8.0\BethanyPieShopHRM.pdb
+C:\Users\Win10\Documents\2025_PLURALSIGHT_C#\CSHARP Fundamentals\BethanyPieShopHRM\BethanyPieShopHRM\obj\Debug\net8.0\BethanyPieShopHRM.dll
+C:\Users\Win10\Documents\2025_PLURALSIGHT_C#\CSHARP Fundamentals\BethanyPieShopHRM\BethanyPieShopHRM\obj\Debug\net8.0\refint\BethanyPieShopHRM.dll
+C:\Users\Win10\Documents\2025_PLURALSIGHT_C#\CSHARP Fundamentals\BethanyPieShopHRM\BethanyPieShopHRM\obj\Debug\net8.0\BethanyPieShopHRM.pdb
+C:\Users\Win10\Documents\2025_PLURALSIGHT_C#\CSHARP Fundamentals\BethanyPieShopHRM\BethanyPieShopHRM\obj\Debug\net8.0\BethanyPieShopHRM.genruntimeconfig.cache
+C:\Users\Win10\Documents\2025_PLURALSIGHT_C#\CSHARP Fundamentals\BethanyPieShopHRM\BethanyPieShopHRM\obj\Debug\net8.0\ref\BethanyPieShopHRM.dll

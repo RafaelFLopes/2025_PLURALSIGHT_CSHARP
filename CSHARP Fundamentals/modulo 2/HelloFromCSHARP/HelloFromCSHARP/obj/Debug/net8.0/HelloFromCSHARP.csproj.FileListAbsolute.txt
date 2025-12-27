@@ -1,0 +1,15 @@
+C:\Users\Win10\Documents\2025_PLURALSIGHT_C#\CSHARP Fundamentals\HelloFromCSHARP\HelloFromCSHARP\bin\Debug\net8.0\HelloFromCSHARP.exe
+C:\Users\Win10\Documents\2025_PLURALSIGHT_C#\CSHARP Fundamentals\HelloFromCSHARP\HelloFromCSHARP\bin\Debug\net8.0\HelloFromCSHARP.deps.json
+C:\Users\Win10\Documents\2025_PLURALSIGHT_C#\CSHARP Fundamentals\HelloFromCSHARP\HelloFromCSHARP\bin\Debug\net8.0\HelloFromCSHARP.runtimeconfig.json
+C:\Users\Win10\Documents\2025_PLURALSIGHT_C#\CSHARP Fundamentals\HelloFromCSHARP\HelloFromCSHARP\bin\Debug\net8.0\HelloFromCSHARP.dll
+C:\Users\Win10\Documents\2025_PLURALSIGHT_C#\CSHARP Fundamentals\HelloFromCSHARP\HelloFromCSHARP\bin\Debug\net8.0\HelloFromCSHARP.pdb
+C:\Users\Win10\Documents\2025_PLURALSIGHT_C#\CSHARP Fundamentals\HelloFromCSHARP\HelloFromCSHARP\obj\Debug\net8.0\HelloFromCSHARP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Win10\Documents\2025_PLURALSIGHT_C#\CSHARP Fundamentals\HelloFromCSHARP\HelloFromCSHARP\obj\Debug\net8.0\HelloFromCSHARP.AssemblyInfoInputs.cache
+C:\Users\Win10\Documents\2025_PLURALSIGHT_C#\CSHARP Fundamentals\HelloFromCSHARP\HelloFromCSHARP\obj\Debug\net8.0\HelloFromCSHARP.AssemblyInfo.cs
+C:\Users\Win10\Documents\2025_PLURALSIGHT_C#\CSHARP Fundamentals\HelloFromCSHARP\HelloFromCSHARP\obj\Debug\net8.0\HelloFromCSHARP.csproj.CoreCompileInputs.cache
+C:\Users\Win10\Documents\2025_PLURALSIGHT_C#\CSHARP Fundamentals\HelloFromCSHARP\HelloFromCSHARP\obj\Debug\net8.0\HelloFromCSHARP.sourcelink.json
+C:\Users\Win10\Documents\2025_PLURALSIGHT_C#\CSHARP Fundamentals\HelloFromCSHARP\HelloFromCSHARP\obj\Debug\net8.0\HelloFromCSHARP.dll
+C:\Users\Win10\Documents\2025_PLURALSIGHT_C#\CSHARP Fundamentals\HelloFromCSHARP\HelloFromCSHARP\obj\Debug\net8.0\refint\HelloFromCSHARP.dll
+C:\Users\Win10\Documents\2025_PLURALSIGHT_C#\CSHARP Fundamentals\HelloFromCSHARP\HelloFromCSHARP\obj\Debug\net8.0\HelloFromCSHARP.pdb
+C:\Users\Win10\Documents\2025_PLURALSIGHT_C#\CSHARP Fundamentals\HelloFromCSHARP\HelloFromCSHARP\obj\Debug\net8.0\HelloFromCSHARP.genruntimeconfig.cache
+C:\Users\Win10\Documents\2025_PLURALSIGHT_C#\CSHARP Fundamentals\HelloFromCSHARP\HelloFromCSHARP\obj\Debug\net8.0\ref\HelloFromCSHARP.dll
