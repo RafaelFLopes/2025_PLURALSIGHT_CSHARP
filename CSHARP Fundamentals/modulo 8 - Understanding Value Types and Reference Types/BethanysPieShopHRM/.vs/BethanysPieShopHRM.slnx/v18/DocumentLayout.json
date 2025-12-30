@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\Win10\\Documents\\2025_PLURALSIGHT_C#\\CSHARP Fundamentals\\modulo 8 - Understanding Value Types and Reference Types\\BethanysPieShopHRM\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CCFA2141-5A78-4507-A3C4-CB3021CB922D}|BethanysPieShopHRM\\BethanysPieShopHRM.csproj|c:\\users\\win10\\documents\\2025_pluralsight_c#\\csharp fundamentals\\modulo 8 - understanding value types and reference types\\bethanyspieshophrm\\bethanyspieshophrm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CCFA2141-5A78-4507-A3C4-CB3021CB922D}|BethanysPieShopHRM\\BethanysPieShopHRM.csproj|solutionrelative:bethanyspieshophrm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3E5CE4AC-DD2B-6AA1-0104-E6B676AA2343}|BethanysPieShopHRM\\BethanysPieShopHRM.csproj|c:\\users\\win10\\documents\\2025_pluralsight_c#\\csharp fundamentals\\modulo 8 - understanding value types and reference types\\bethanyspieshophrm\\bethanyspieshophrm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E5CE4AC-DD2B-6AA1-0104-E6B676AA2343}|BethanysPieShopHRM\\BethanysPieShopHRM.csproj|solutionrelative:bethanyspieshophrm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CCFA2141-5A78-4507-A3C4-CB3021CB922D}|BethanysPieShopHRM\\BethanysPieShopHRM.csproj|c:\\users\\win10\\documents\\2025_pluralsight_c#\\csharp fundamentals\\modulo 8 - understanding value types and reference types\\bethanyspieshophrm\\bethanyspieshophrm\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CCFA2141-5A78-4507-A3C4-CB3021CB922D}|BethanysPieShopHRM\\BethanysPieShopHRM.csproj|solutionrelative:bethanyspieshophrm\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3E5CE4AC-DD2B-6AA1-0104-E6B676AA2343}|BethanysPieShopHRM\\BethanysPieShopHRM.csproj|c:\\users\\win10\\documents\\2025_pluralsight_c#\\csharp fundamentals\\modulo 8 - understanding value types and reference types\\bethanyspieshophrm\\bethanyspieshophrm\\worktask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E5CE4AC-DD2B-6AA1-0104-E6B676AA2343}|BethanysPieShopHRM\\BethanysPieShopHRM.csproj|solutionrelative:bethanyspieshophrm\\worktask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E5CE4AC-DD2B-6AA1-0104-E6B676AA2343}|BethanysPieShopHRM\\BethanysPieShopHRM.csproj|c:\\users\\win10\\documents\\2025_pluralsight_c#\\csharp fundamentals\\modulo 8 - understanding value types and reference types\\bethanyspieshophrm\\bethanyspieshophrm\\employeetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E5CE4AC-DD2B-6AA1-0104-E6B676AA2343}|BethanysPieShopHRM\\BethanysPieShopHRM.csproj|solutionrelative:bethanyspieshophrm\\employeetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E5CE4AC-DD2B-6AA1-0104-E6B676AA2343}|BethanysPieShopHRM\\BethanysPieShopHRM.csproj|c:\\users\\win10\\documents\\2025_pluralsight_c#\\csharp fundamentals\\modulo 8 - understanding value types and reference types\\bethanyspieshophrm\\bethanyspieshophrm\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E5CE4AC-DD2B-6AA1-0104-E6B676AA2343}|BethanysPieShopHRM\\BethanysPieShopHRM.csproj|solutionrelative:bethanyspieshophrm\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,17 +26,47 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "WorkTask.cs",
+              "DocumentMoniker": "C:\\Users\\Win10\\Documents\\2025_PLURALSIGHT_C#\\CSHARP Fundamentals\\modulo 8 - Understanding Value Types and Reference Types\\BethanysPieShopHRM\\BethanysPieShopHRM\\WorkTask.cs",
+              "RelativeDocumentMoniker": "BethanysPieShopHRM\\WorkTask.cs",
+              "ToolTip": "C:\\Users\\Win10\\Documents\\2025_PLURALSIGHT_C#\\CSHARP Fundamentals\\modulo 8 - Understanding Value Types and Reference Types\\BethanysPieShopHRM\\BethanysPieShopHRM\\WorkTask.cs",
+              "RelativeToolTip": "BethanysPieShopHRM\\WorkTask.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T04:44:15.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeeType.cs",
+              "DocumentMoniker": "C:\\Users\\Win10\\Documents\\2025_PLURALSIGHT_C#\\CSHARP Fundamentals\\modulo 8 - Understanding Value Types and Reference Types\\BethanysPieShopHRM\\BethanysPieShopHRM\\EmployeeType.cs",
+              "RelativeDocumentMoniker": "BethanysPieShopHRM\\EmployeeType.cs",
+              "ToolTip": "C:\\Users\\Win10\\Documents\\2025_PLURALSIGHT_C#\\CSHARP Fundamentals\\modulo 8 - Understanding Value Types and Reference Types\\BethanysPieShopHRM\\BethanysPieShopHRM\\EmployeeType.cs",
+              "RelativeToolTip": "BethanysPieShopHRM\\EmployeeType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T04:22:32.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Employee.cs",
               "DocumentMoniker": "C:\\Users\\Win10\\Documents\\2025_PLURALSIGHT_C#\\CSHARP Fundamentals\\modulo 8 - Understanding Value Types and Reference Types\\BethanysPieShopHRM\\BethanysPieShopHRM\\Employee.cs",
               "RelativeDocumentMoniker": "BethanysPieShopHRM\\Employee.cs",
               "ToolTip": "C:\\Users\\Win10\\Documents\\2025_PLURALSIGHT_C#\\CSHARP Fundamentals\\modulo 8 - Understanding Value Types and Reference Types\\BethanysPieShopHRM\\BethanysPieShopHRM\\Employee.cs",
               "RelativeToolTip": "BethanysPieShopHRM\\Employee.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEUAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAmwGQAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-27T19:27:07.371Z",
               "EditorCaption": ""
@@ -41,7 +79,7 @@
               "RelativeDocumentMoniker": "BethanysPieShopHRM\\Program.cs",
               "ToolTip": "C:\\Users\\Win10\\Documents\\2025_PLURALSIGHT_C#\\CSHARP Fundamentals\\modulo 8 - Understanding Value Types and Reference Types\\BethanysPieShopHRM\\BethanysPieShopHRM\\Program.cs",
               "RelativeToolTip": "BethanysPieShopHRM\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAsAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE0AAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-27T19:26:31.998Z",
               "EditorCaption": ""
