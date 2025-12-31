@@ -1,4 +1,5 @@
 ﻿using BethanysPieShopHRM.HR;
+using BethanysPieShopHRM.Logic;
 using Newtonsoft.Json;
 using System;
 using System.Collections.Generic;
@@ -16,23 +17,25 @@ namespace BethanysPieShopHRM.HR
 
         public int numberOfHoursWorked;
         public double wage;
-        public double hourlyRate;
+        public double? hourlyRate;
         const int minimalHoursWorkedUnit = 1; // constante para representar a unidade mínima de horas trabalhadas
         public DateTime birthDay;
 
         public EmployeeType employeeType;
 
+        public static double taxRate = 0.15; // atributo estático para representar a taxa de imposto aplicável a todos os funcionários
+
         public Employee(string first, string last, string em, DateTime bd) : this(first, last, em, bd, 0, EmployeeType.StoreManager) // construtor que inicializa os atributos da class
         {
 
         }
-        public Employee(string first, string last, string em, DateTime bd, double rate, EmployeeType empType)
+        public Employee(string first, string last, string em, DateTime bd, double? rate, EmployeeType empType)
         {
             firstName = first;
             lastName = last;
             email = em;
             birthDay = bd;
-            hourlyRate = rate;
+            hourlyRate = rate ?? 10;
             employeeType = empType;
         }
 
@@ -95,12 +98,20 @@ namespace BethanysPieShopHRM.HR
 
         public double ReceiveWage(bool resetHours = true) // método para calcular o salário com base nas horas trabalhadas e na taxa horária e resetar as horas trabalhadas se necessário
         {
+
+            double wageBeforeTax = 0.0;
+
             if (employeeType == EmployeeType.Manager)
             {
-                wage = numberOfHoursWorked * hourlyRate * 1.25;
+                wage = numberOfHoursWorked * hourlyRate.Value * 1.25;
             }
             else
-                wage = numberOfHoursWorked * hourlyRate; // calculo para obter o salário
+                wage = numberOfHoursWorked * hourlyRate.Value; // calculo para obter o salário
+
+
+            double taxAmount = wageBeforeTax * taxRate;
+
+            wage = wageBeforeTax - taxAmount;
 
             Console.WriteLine($"{firstName} {lastName} has received a wage of {wage} for {numberOfHoursWorked} hour(s) of work."); // exibe o salário recebido e as horas trabalhadas
 
@@ -110,6 +121,12 @@ namespace BethanysPieShopHRM.HR
             }
 
             return wage; // retorna o salário calculado
+        }
+
+
+        public static void DisplayTaxRate()
+        {
+            Console.WriteLine($"The current tax rate is {taxRate}");
         }
 
         public void DisplayEmployeeDetails() // método para exibir os detalhes do funcionário
@@ -125,6 +142,15 @@ namespace BethanysPieShopHRM.HR
         {
             string json = JsonConvert.SerializeObject(this);
             return json;
+        }
+
+        public double CalculateWage()
+        {
+            WageCalculations wageCalculations = new WageCalculations();
+
+            double calculatedValue = wageCalculations.ComplexWageCalculation(wage, taxRate, 3, 42);
+
+            return calculatedValue;
         }
 
     }

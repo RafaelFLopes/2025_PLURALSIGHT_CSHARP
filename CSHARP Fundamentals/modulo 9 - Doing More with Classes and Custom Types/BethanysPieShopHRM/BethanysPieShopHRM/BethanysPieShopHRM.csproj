@@ -8,11 +8,13 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Accounting\" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.4" />
   </ItemGroup>
 
   <ItemGroup>
-    <PackageReference Include="Newtonsoft.Json" Version="13.0.4" />
+    <Reference Include="BethanysPieShopHRM.Logic">
+      <HintPath>..\..\BethanysPieShopHRM.Logic.dll</HintPath>
+    </Reference>
   </ItemGroup>
 
 </Project>
