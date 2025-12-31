@@ -12,4 +12,4 @@ bethany.CalculateWage();
 
 
 Account account = new Account("123456789"); // cria uma nova instância do record Account com o número de conta fornecido
-//account.AccountNumber = "12315787"; // tenta alterar o número da conta (isso não é permitido em records imutáveis)
+account.AccountNumber = "12315787"; // tenta alterar o número da conta (isso não é permitido em records imutáveis)
