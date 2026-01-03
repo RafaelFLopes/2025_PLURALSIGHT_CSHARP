@@ -105,9 +105,9 @@ namespace BethanysPieShopHRM.HR
             {
                 wage = numberOfHoursWorked * hourlyRate.Value * 1.25;
             }
-            else
+            else { 
                 wage = numberOfHoursWorked * hourlyRate.Value; // calculo para obter o salário
-
+            }
 
             double taxAmount = wageBeforeTax * taxRate;
 

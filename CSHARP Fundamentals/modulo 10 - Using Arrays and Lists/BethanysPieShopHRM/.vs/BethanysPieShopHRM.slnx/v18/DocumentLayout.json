@@ -3,32 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\Win10\\Documents\\2025_PLURALSIGHT_C#\\CSHARP Fundamentals\\modulo 10 - Using Arrays and Lists\\BethanysPieShopHRM\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8278F18D-5BE2-4AC5-9B74-B321CEBAF0BC}|BethanysPieShopHRM\\BethanysPieShopHRM.csproj|c:\\users\\win10\\documents\\2025_pluralsight_c#\\csharp fundamentals\\modulo 10 - using arrays and lists\\bethanyspieshophrm\\bethanyspieshophrm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8278F18D-5BE2-4AC5-9B74-B321CEBAF0BC}|BethanysPieShopHRM\\BethanysPieShopHRM.csproj|solutionrelative:bethanyspieshophrm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3E5CE4AC-DD2B-6AA1-0104-E6B676AA2343}|BethanysPieShopHRM\\BethanysPieShopHRM.csproj|c:\\users\\win10\\documents\\2025_pluralsight_c#\\csharp fundamentals\\modulo 10 - using arrays and lists\\bethanyspieshophrm\\bethanyspieshophrm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E5CE4AC-DD2B-6AA1-0104-E6B676AA2343}|BethanysPieShopHRM\\BethanysPieShopHRM.csproj|solutionrelative:bethanyspieshophrm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8278F18D-5BE2-4AC5-9B74-B321CEBAF0BC}|BethanysPieShopHRM\\BethanysPieShopHRM.csproj|c:\\users\\win10\\documents\\2025_pluralsight_c#\\csharp fundamentals\\modulo 10 - using arrays and lists\\bethanyspieshophrm\\bethanyspieshophrm\\bethanyspieshophrm.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{8278F18D-5BE2-4AC5-9B74-B321CEBAF0BC}|BethanysPieShopHRM\\BethanysPieShopHRM.csproj|solutionrelative:bethanyspieshophrm\\bethanyspieshophrm.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{3E5CE4AC-DD2B-6AA1-0104-E6B676AA2343}|BethanysPieShopHRM\\BethanysPieShopHRM.csproj|c:\\users\\win10\\documents\\2025_pluralsight_c#\\csharp fundamentals\\modulo 10 - using arrays and lists\\bethanyspieshophrm\\bethanyspieshophrm\\hr\\worktask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E5CE4AC-DD2B-6AA1-0104-E6B676AA2343}|BethanysPieShopHRM\\BethanysPieShopHRM.csproj|solutionrelative:bethanyspieshophrm\\hr\\worktask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8278F18D-5BE2-4AC5-9B74-B321CEBAF0BC}|BethanysPieShopHRM\\BethanysPieShopHRM.csproj|c:\\users\\win10\\documents\\2025_pluralsight_c#\\csharp fundamentals\\modulo 10 - using arrays and lists\\bethanyspieshophrm\\bethanyspieshophrm\\accouting\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8278F18D-5BE2-4AC5-9B74-B321CEBAF0BC}|BethanysPieShopHRM\\BethanysPieShopHRM.csproj|solutionrelative:bethanyspieshophrm\\accouting\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3E5CE4AC-DD2B-6AA1-0104-E6B676AA2343}|BethanysPieShopHRM\\BethanysPieShopHRM.csproj|c:\\users\\win10\\documents\\2025_pluralsight_c#\\csharp fundamentals\\modulo 10 - using arrays and lists\\bethanyspieshophrm\\bethanyspieshophrm\\hr\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E5CE4AC-DD2B-6AA1-0104-E6B676AA2343}|BethanysPieShopHRM\\BethanysPieShopHRM.csproj|solutionrelative:bethanyspieshophrm\\hr\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8278F18D-5BE2-4AC5-9B74-B321CEBAF0BC}|BethanysPieShopHRM\\BethanysPieShopHRM.csproj|c:\\users\\win10\\documents\\2025_pluralsight_c#\\csharp fundamentals\\modulo 10 - using arrays and lists\\bethanyspieshophrm\\bethanyspieshophrm\\hr\\worktask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8278F18D-5BE2-4AC5-9B74-B321CEBAF0BC}|BethanysPieShopHRM\\BethanysPieShopHRM.csproj|solutionrelative:bethanyspieshophrm\\hr\\worktask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3E5CE4AC-DD2B-6AA1-0104-E6B676AA2343}|BethanysPieShopHRM\\BethanysPieShopHRM.csproj|c:\\users\\win10\\documents\\2025_pluralsight_c#\\csharp fundamentals\\modulo 10 - using arrays and lists\\bethanyspieshophrm\\bethanyspieshophrm\\accounting\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E5CE4AC-DD2B-6AA1-0104-E6B676AA2343}|BethanysPieShopHRM\\BethanysPieShopHRM.csproj|solutionrelative:bethanyspieshophrm\\accounting\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8278F18D-5BE2-4AC5-9B74-B321CEBAF0BC}|BethanysPieShopHRM\\BethanysPieShopHRM.csproj|c:\\users\\win10\\documents\\2025_pluralsight_c#\\csharp fundamentals\\modulo 10 - using arrays and lists\\bethanyspieshophrm\\bethanyspieshophrm\\hr\\employeetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8278F18D-5BE2-4AC5-9B74-B321CEBAF0BC}|BethanysPieShopHRM\\BethanysPieShopHRM.csproj|solutionrelative:bethanyspieshophrm\\hr\\employeetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3E5CE4AC-DD2B-6AA1-0104-E6B676AA2343}|BethanysPieShopHRM\\BethanysPieShopHRM.csproj|c:\\users\\win10\\documents\\2025_pluralsight_c#\\csharp fundamentals\\modulo 10 - using arrays and lists\\bethanyspieshophrm\\bethanyspieshophrm\\bethanyspieshophrm.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3E5CE4AC-DD2B-6AA1-0104-E6B676AA2343}|BethanysPieShopHRM\\BethanysPieShopHRM.csproj|solutionrelative:bethanyspieshophrm\\bethanyspieshophrm.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8278F18D-5BE2-4AC5-9B74-B321CEBAF0BC}|BethanysPieShopHRM\\BethanysPieShopHRM.csproj|c:\\users\\win10\\documents\\2025_pluralsight_c#\\csharp fundamentals\\modulo 10 - using arrays and lists\\bethanyspieshophrm\\bethanyspieshophrm\\hr\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8278F18D-5BE2-4AC5-9B74-B321CEBAF0BC}|BethanysPieShopHRM\\BethanysPieShopHRM.csproj|solutionrelative:bethanyspieshophrm\\hr\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3E5CE4AC-DD2B-6AA1-0104-E6B676AA2343}|BethanysPieShopHRM\\BethanysPieShopHRM.csproj|c:\\users\\win10\\documents\\2025_pluralsight_c#\\csharp fundamentals\\modulo 10 - using arrays and lists\\bethanyspieshophrm\\bethanyspieshophrm\\hr\\employeetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E5CE4AC-DD2B-6AA1-0104-E6B676AA2343}|BethanysPieShopHRM\\BethanysPieShopHRM.csproj|solutionrelative:bethanyspieshophrm\\hr\\employeetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8278F18D-5BE2-4AC5-9B74-B321CEBAF0BC}|BethanysPieShopHRM\\BethanysPieShopHRM.csproj|c:\\users\\win10\\documents\\2025_pluralsight_c#\\csharp fundamentals\\modulo 10 - using arrays and lists\\bethanyspieshophrm\\bethanyspieshophrm\\accouting\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8278F18D-5BE2-4AC5-9B74-B321CEBAF0BC}|BethanysPieShopHRM\\BethanysPieShopHRM.csproj|solutionrelative:bethanyspieshophrm\\accouting\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3E5CE4AC-DD2B-6AA1-0104-E6B676AA2343}|BethanysPieShopHRM\\BethanysPieShopHRM.csproj|c:\\users\\win10\\documents\\2025_pluralsight_c#\\csharp fundamentals\\modulo 10 - using arrays and lists\\bethanyspieshophrm\\bethanyspieshophrm\\accounting\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E5CE4AC-DD2B-6AA1-0104-E6B676AA2343}|BethanysPieShopHRM\\BethanysPieShopHRM.csproj|solutionrelative:bethanyspieshophrm\\accounting\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,8 +46,8 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "BethanysPieShopHRM",
+              "DocumentIndex": 4,
+              "Title": "BethanysPieShopHRM.csproj",
               "DocumentMoniker": "C:\\Users\\Win10\\Documents\\2025_PLURALSIGHT_C#\\CSHARP Fundamentals\\modulo 10 - Using Arrays and Lists\\BethanysPieShopHRM\\BethanysPieShopHRM\\BethanysPieShopHRM.csproj",
               "RelativeDocumentMoniker": "BethanysPieShopHRM\\BethanysPieShopHRM.csproj",
               "ToolTip": "C:\\Users\\Win10\\Documents\\2025_PLURALSIGHT_C#\\CSHARP Fundamentals\\modulo 10 - Using Arrays and Lists\\BethanysPieShopHRM\\BethanysPieShopHRM\\BethanysPieShopHRM.csproj",
@@ -59,7 +59,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "WorkTask.cs",
               "DocumentMoniker": "C:\\Users\\Win10\\Documents\\2025_PLURALSIGHT_C#\\CSHARP Fundamentals\\modulo 10 - Using Arrays and Lists\\BethanysPieShopHRM\\BethanysPieShopHRM\\HR\\WorkTask.cs",
               "RelativeDocumentMoniker": "BethanysPieShopHRM\\HR\\WorkTask.cs",
@@ -72,26 +72,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "EmployeeType.cs",
               "DocumentMoniker": "C:\\Users\\Win10\\Documents\\2025_PLURALSIGHT_C#\\CSHARP Fundamentals\\modulo 10 - Using Arrays and Lists\\BethanysPieShopHRM\\BethanysPieShopHRM\\HR\\EmployeeType.cs",
               "RelativeDocumentMoniker": "BethanysPieShopHRM\\HR\\EmployeeType.cs",
               "ToolTip": "C:\\Users\\Win10\\Documents\\2025_PLURALSIGHT_C#\\CSHARP Fundamentals\\modulo 10 - Using Arrays and Lists\\BethanysPieShopHRM\\BethanysPieShopHRM\\HR\\EmployeeType.cs",
               "RelativeToolTip": "BethanysPieShopHRM\\HR\\EmployeeType.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-31T03:55:09.29Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "Employee.cs",
               "DocumentMoniker": "C:\\Users\\Win10\\Documents\\2025_PLURALSIGHT_C#\\CSHARP Fundamentals\\modulo 10 - Using Arrays and Lists\\BethanysPieShopHRM\\BethanysPieShopHRM\\HR\\Employee.cs",
               "RelativeDocumentMoniker": "BethanysPieShopHRM\\HR\\Employee.cs",
               "ToolTip": "C:\\Users\\Win10\\Documents\\2025_PLURALSIGHT_C#\\CSHARP Fundamentals\\modulo 10 - Using Arrays and Lists\\BethanysPieShopHRM\\BethanysPieShopHRM\\HR\\Employee.cs",
               "RelativeToolTip": "BethanysPieShopHRM\\HR\\Employee.cs",
-              "ViewState": "AgIAAHcAAAAAAAAAAAAiwJwAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGUAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-31T03:54:55.26Z",
               "EditorCaption": ""
@@ -100,10 +100,10 @@
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "Customer.cs",
-              "DocumentMoniker": "C:\\Users\\Win10\\Documents\\2025_PLURALSIGHT_C#\\CSHARP Fundamentals\\modulo 10 - Using Arrays and Lists\\BethanysPieShopHRM\\BethanysPieShopHRM\\Accouting\\Customer.cs",
-              "RelativeDocumentMoniker": "BethanysPieShopHRM\\Accouting\\Customer.cs",
-              "ToolTip": "C:\\Users\\Win10\\Documents\\2025_PLURALSIGHT_C#\\CSHARP Fundamentals\\modulo 10 - Using Arrays and Lists\\BethanysPieShopHRM\\BethanysPieShopHRM\\Accouting\\Customer.cs",
-              "RelativeToolTip": "BethanysPieShopHRM\\Accouting\\Customer.cs",
+              "DocumentMoniker": "C:\\Users\\Win10\\Documents\\2025_PLURALSIGHT_C#\\CSHARP Fundamentals\\modulo 10 - Using Arrays and Lists\\BethanysPieShopHRM\\BethanysPieShopHRM\\Accounting\\Customer.cs",
+              "RelativeDocumentMoniker": "BethanysPieShopHRM\\Accounting\\Customer.cs",
+              "ToolTip": "C:\\Users\\Win10\\Documents\\2025_PLURALSIGHT_C#\\CSHARP Fundamentals\\modulo 10 - Using Arrays and Lists\\BethanysPieShopHRM\\BethanysPieShopHRM\\Accounting\\Customer.cs",
+              "RelativeToolTip": "BethanysPieShopHRM\\Accounting\\Customer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-31T03:54:46.667Z",
@@ -111,13 +111,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Account.cs",
-              "DocumentMoniker": "C:\\Users\\Win10\\Documents\\2025_PLURALSIGHT_C#\\CSHARP Fundamentals\\modulo 10 - Using Arrays and Lists\\BethanysPieShopHRM\\BethanysPieShopHRM\\Accouting\\Account.cs",
-              "RelativeDocumentMoniker": "BethanysPieShopHRM\\Accouting\\Account.cs",
-              "ToolTip": "C:\\Users\\Win10\\Documents\\2025_PLURALSIGHT_C#\\CSHARP Fundamentals\\modulo 10 - Using Arrays and Lists\\BethanysPieShopHRM\\BethanysPieShopHRM\\Accouting\\Account.cs",
-              "RelativeToolTip": "BethanysPieShopHRM\\Accouting\\Account.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\Win10\\Documents\\2025_PLURALSIGHT_C#\\CSHARP Fundamentals\\modulo 10 - Using Arrays and Lists\\BethanysPieShopHRM\\BethanysPieShopHRM\\Accounting\\Account.cs",
+              "RelativeDocumentMoniker": "BethanysPieShopHRM\\Accounting\\Account.cs",
+              "ToolTip": "C:\\Users\\Win10\\Documents\\2025_PLURALSIGHT_C#\\CSHARP Fundamentals\\modulo 10 - Using Arrays and Lists\\BethanysPieShopHRM\\BethanysPieShopHRM\\Accounting\\Account.cs",
+              "RelativeToolTip": "BethanysPieShopHRM\\Accounting\\Account.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-31T03:54:26.517Z",
               "EditorCaption": ""
@@ -130,7 +130,7 @@
               "RelativeDocumentMoniker": "BethanysPieShopHRM\\Program.cs",
               "ToolTip": "C:\\Users\\Win10\\Documents\\2025_PLURALSIGHT_C#\\CSHARP Fundamentals\\modulo 10 - Using Arrays and Lists\\BethanysPieShopHRM\\BethanysPieShopHRM\\Program.cs",
               "RelativeToolTip": "BethanysPieShopHRM\\Program.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAADwvxIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAFsAAAAAAAAAAAAiwEIAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-31T03:46:20.897Z",
               "EditorCaption": ""
