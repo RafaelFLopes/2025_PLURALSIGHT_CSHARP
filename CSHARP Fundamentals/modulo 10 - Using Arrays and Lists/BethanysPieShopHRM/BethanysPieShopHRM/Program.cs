@@ -10,73 +10,73 @@ using System.Text;
 
 //Criando uma array simples
 
-int[] sampleArray1 = new int[5];
+//int[] sampleArray1 = new int[5];
 
-int[] sampleArray2 = new int[] { 1, 2, 3, 4, 5 };
+//int[] sampleArray2 = new int[] { 1, 2, 3, 4, 5 };
 
-//int[] sampleArray3 = new int[5] { 1, 2, 3, 4, 5, 6 }; vai dar erro, pois escrevi 5 e coloquei 6 elementos
-
-
+////int[] sampleArray3 = new int[5] { 1, 2, 3, 4, 5, 6 }; vai dar erro, pois escrevi 5 e coloquei 6 elementos
 
 
 
 
 
 
-// arrays podem ser dinamicas tbm
-
-Console.WriteLine("How many employees IDs do you want to register?");
-
-int lenght = int.Parse(Console.ReadLine());
-
-int[] employeeIds = new int[lenght];
 
 
+//// arrays podem ser dinamicas tbm
 
-for (int i = 0; i < employeeIds.Length; i++) // loop para preencher o array com IDs de funcionários fornecidos pelo usuário
-{
-    Console.WriteLine($"Enter the employee ID for employee:"); // solicita ao usuário que insira o ID do funcionário
-    employeeIds[i] = int.Parse(Console.ReadLine()); // lê o ID do funcionário inserido pelo usuário e o armazena no array na posição i
-}
+//Console.WriteLine("How many employees IDs do you want to register?");
 
-for (int i = 0; i < employeeIds.Length; i++) // loop para exibir os IDs dos funcionários armazenados no array
-{
-    Console.WriteLine($"ID {i + 1}: \t{employeeIds[i]}"); // exibe o ID do funcionário na posição i do array
-}
+//int lenght = int.Parse(Console.ReadLine());
+
+//int[] employeeIds = new int[lenght];
 
 
 
-Console.WriteLine("Sorting employee IDs...");
+//for (int i = 0; i < employeeIds.Length; i++) // loop para preencher o array com IDs de funcionários fornecidos pelo usuário
+//{
+//    Console.WriteLine($"Enter the employee ID for employee:"); // solicita ao usuário que insira o ID do funcionário
+//    employeeIds[i] = int.Parse(Console.ReadLine()); // lê o ID do funcionário inserido pelo usuário e o armazena no array na posição i
+//}
 
-Array.Sort(employeeIds);
-
-for (int i = 0; i < employeeIds.Length; i++) // loop para exibir os IDs dos funcionários armazenados no array
-{
-    Console.WriteLine($"ID {i + 1}: \t{employeeIds[i]}"); // exibe o ID do funcionário na posição i do array
-}
-
-
-
-int[] employeeIdsCopy = new int[lenght]; // cria um novo array employeeIdsCopy com o mesmo tamanho do array employeeIds
-
-employeeIds.CopyTo(employeeIdsCopy, 0); // copia os elementos do array employeeIds para o array employeeIdsCopy, começando na posição 0 do array de destino
-
-Array.Reverse(employeeIds); // inverte a ordem dos elementos no array employeeIds
+//for (int i = 0; i < employeeIds.Length; i++) // loop para exibir os IDs dos funcionários armazenados no array
+//{
+//    Console.WriteLine($"ID {i + 1}: \t{employeeIds[i]}"); // exibe o ID do funcionário na posição i do array
+//}
 
 
-Console.WriteLine("after reversing original array...");
 
-for (int i = 0; i < employeeIds.Length; i++) // loop para exibir os IDs dos funcionários armazenados no array
-{
-    Console.WriteLine($"ID {i + 1}: \t{employeeIds[i]}"); // exibe o ID do funcionário na posição i do array
-}
+//Console.WriteLine("Sorting employee IDs...");
 
-Console.WriteLine("copy of array");
+//Array.Sort(employeeIds);
 
-for (int i = 0; i < employeeIdsCopy.Length; i++) // loop para exibir os IDs dos funcionários armazenados no array
-{
-    Console.WriteLine($"ID {i + 1}: \t{employeeIdsCopy[i]}"); // exibe o ID do funcionário na posição i do array
-}
+//for (int i = 0; i < employeeIds.Length; i++) // loop para exibir os IDs dos funcionários armazenados no array
+//{
+//    Console.WriteLine($"ID {i + 1}: \t{employeeIds[i]}"); // exibe o ID do funcionário na posição i do array
+//}
+
+
+
+//int[] employeeIdsCopy = new int[lenght]; // cria um novo array employeeIdsCopy com o mesmo tamanho do array employeeIds
+
+//employeeIds.CopyTo(employeeIdsCopy, 0); // copia os elementos do array employeeIds para o array employeeIdsCopy, começando na posição 0 do array de destino
+
+//Array.Reverse(employeeIds); // inverte a ordem dos elementos no array employeeIds
+
+
+//Console.WriteLine("after reversing original array...");
+
+//for (int i = 0; i < employeeIds.Length; i++) // loop para exibir os IDs dos funcionários armazenados no array
+//{
+//    Console.WriteLine($"ID {i + 1}: \t{employeeIds[i]}"); // exibe o ID do funcionário na posição i do array
+//}
+
+//Console.WriteLine("copy of array");
+
+//for (int i = 0; i < employeeIdsCopy.Length; i++) // loop para exibir os IDs dos funcionários armazenados no array
+//{
+//    Console.WriteLine($"ID {i + 1}: \t{employeeIdsCopy[i]}"); // exibe o ID do funcionário na posição i do array
+//}
 
 //Employee bethany = new Employee("Bethany", "Smith", "bethany.smith@gmail.com", new DateTime(1995, 09, 13), 25, EmployeeType.Manager);
 
@@ -124,3 +124,89 @@ for (int i = 0; i < employeeIdsCopy.Length; i++) // loop para exibir os IDs dos 
 //}
 
 //Console.ReadLine();
+
+// LISSSSSSSSSSSSSSSST
+
+
+//List<int> employeeIds = new List<int>();
+
+//employeeIds.Add(1);
+//employeeIds.Add(54);
+//employeeIds.Add(100);
+//employeeIds.Add(92);
+//employeeIds.Add(72);
+//employeeIds.Add(21);
+////employeeIds.Add("sddzsada"); vai dar erro pq a lista é de int
+
+//if (employeeIds.Contains(54)) // verifica se a lista employeeIds contém o valor 54
+//{
+//        Console.WriteLine("The list contains the employee ID 54");
+//}
+
+//int count = employeeIds.Count; // obtém o número de elementos na lista employeeIds
+
+//var employeeIdsArray = employeeIds.ToArray(); // converte a lista employeeIds em um array
+
+//employeeIds.Remove(100); // remove o elemento com valor 100 da lista employeeIds
+
+////employeeIds.Clear(); // remove todos os elementos da lista employeeIds
+
+
+
+//Console.WriteLine("Quantos funcionarios você quer registrar no sistema?");
+
+//int length = int.Parse(Console.ReadLine());
+
+//for(int i = 0; i < length; i++)
+//{
+//    Console.WriteLine("Digite o ID do funcionário:");
+//    int id = int.Parse(Console.ReadLine());
+//    employeeIds.Add(id);
+//}
+
+//Console.ReadLine();
+
+
+Employee bethany = new Employee("Bethany", "Smith", "bethany.smith@gmail.com", new DateTime(1995, 09, 13), 25, EmployeeType.Manager);
+
+Employee lucas = new Employee("Lucas", "Pereira", "lucas.pereira@gmail.com", new DateTime(1990, 03, 22), 32, EmployeeType.Sales);
+
+Employee mariana = new Employee("Mariana", "Oliveira", "mariana.oliveira@gmail.com", new DateTime(1998, 07, 10), 26, EmployeeType.Research);
+
+Employee carlos = new Employee("Carlos", "Santos", "carlos.santos@gmail.com", new DateTime(1985, 11, 05), 39, EmployeeType.StoreManager);
+
+Employee ana = new Employee("Ana", "Costa", "ana.costa@gmail.com", new DateTime(1996, 01, 18), 28, EmployeeType.Manager);
+
+Employee rafael = new Employee("Rafael", "Almeida", "rafael.almeida@gmail.com", new DateTime(1992, 06, 30), 31, EmployeeType.Sales);
+
+Employee beatriz = new Employee("Beatriz", "Rocha", "beatriz.rocha@gmail.com", new DateTime(1999, 09, 14), 25, EmployeeType.Research);
+
+Employee fernando = new Employee("Fernando", "Lima", "fernando.lima@gmail.com", new DateTime(1988, 12, 02), 36, EmployeeType.StoreManager);
+
+Employee juliana = new Employee("Juliana", "Mendes", "juliana.mendes@gmail.com", new DateTime(1994, 04, 27), 30, EmployeeType.Manager);
+
+Employee pedro = new Employee("Pedro", "Araujo", "pedro.araujo@gmail.com", new DateTime(2000, 08, 09), 24, EmployeeType.Sales);
+
+Employee camila = new Employee("Camila", "Teixeira", "camila.teixeira@gmail.com", new DateTime(1997, 10, 21), 27, EmployeeType.Research);
+
+
+List<Employee> employees = new List<Employee>();
+
+employees.Add(bethany);
+employees.Add(lucas);
+employees.Add(mariana);
+employees.Add(carlos);
+employees.Add(ana);
+employees.Add(rafael);
+employees.Add(beatriz);
+employees.Add(fernando);
+employees.Add(juliana);
+employees.Add(pedro);
+employees.Add(camila);
+
+foreach(Employee employee in employees)
+{
+    employee.DisplayEmployeeDetails();
+}
+
+Console.ReadLine();
