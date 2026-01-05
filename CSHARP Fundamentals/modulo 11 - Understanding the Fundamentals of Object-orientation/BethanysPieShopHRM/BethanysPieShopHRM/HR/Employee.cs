@@ -11,32 +11,119 @@ namespace BethanysPieShopHRM.HR
 {
     internal class Employee
     { // criando a classe funcinario e adicionando atributos e metodos
-        public string firstName; // criando atributos
-        public string lastName;
-        public string email;
+        private string firstName; // criando atributos
+        private string lastName;
+        private string email;
 
-        public int numberOfHoursWorked;
-        public double wage;
-        public double? hourlyRate;
-        const int minimalHoursWorkedUnit = 1; // constante para representar a unidade mínima de horas trabalhadas
-        public DateTime birthDay;
+        private int numberOfHoursWorked;
+        private double wage;
+        private double? hourlyRate;
 
-        public EmployeeType employeeType;
+        private const int minimalHoursWorkedUnit = 1; // constante para representar a unidade mínima de horas trabalhadas
+        private DateTime birthDay;
+        private EmployeeType employeeType;
 
         public static double taxRate = 0.15; // atributo estático para representar a taxa de imposto aplicável a todos os funcionários
 
-        public Employee(string first, string last, string em, DateTime bd) : this(first, last, em, bd, 0, EmployeeType.StoreManager) // construtor que inicializa os atributos da class
+
+        public string FirstName
+        {
+            get { 
+                return firstName; 
+            }
+            set { 
+                firstName = value; 
+            }
+        }
+
+        public string LastName
+        {
+            get {
+                return lastName;
+            }
+            set {
+                lastName = value;
+            }
+        }
+
+        public string Email
+        {
+            get {
+                return email;
+            }
+            set {
+                email = value;
+            }
+        }
+
+        public int NumberOfHoursWorked
+        {
+            get {
+                return numberOfHoursWorked;
+            }
+            private set {
+                numberOfHoursWorked = value;
+            }
+        }
+
+        public double Wage
+        {
+            get {
+                return wage;
+            }
+            private set {
+                wage = value;
+            }
+        }
+
+        public double? HourlyRate
+        {
+            get { return hourlyRate; }
+            set {
+                if (hourlyRate < 0) {
+                    hourlyRate = 0;
+                }
+                else {
+                    hourlyRate = value;
+                }
+            }
+        }
+
+        public DateTime BirthDay
+        {
+            get {
+                return birthDay;
+            }
+            set {
+                birthDay = value;
+            }
+        }
+
+        public EmployeeType EmployeeType
+        {
+            get {
+                return employeeType;
+            }
+            set {
+                employeeType = value;
+            }
+        }
+
+
+
+
+        public Employee(string firstName, string lastName, string email, DateTime birthDay) : this(firstName, lastName, email, birthDay, 0, EmployeeType.StoreManager) // construtor que inicializa os atributos da class
         {
 
         }
-        public Employee(string first, string last, string em, DateTime bd, double? rate, EmployeeType empType)
+        public Employee(string firstName, string lastName, string email, DateTime birthDay, double? rate, EmployeeType empType)
         {
-            firstName = first;
-            lastName = last;
-            email = em;
-            birthDay = bd;
-            hourlyRate = rate ?? 10;
-            employeeType = empType;
+            FirstName = firstName;
+            LastName = lastName;
+            Email = email;
+            BirthDay = birthDay;
+            HourlyRate = hourlyRate ?? 10;
+            EmployeeType = employeeType;
         }
 
         public void PerformWork() // método para realizar o trabalho, contabilizando as horas trabalhadas
@@ -49,13 +136,13 @@ namespace BethanysPieShopHRM.HR
         }
         public void PerformWork(int numberOfHours) // método sobrecarregado para contabilizar várias horas trabalhadas
         {
-            numberOfHoursWorked += numberOfHours; // incrementa o número de horas trabalhadas com base no numberOfHours fornecido
-            Console.WriteLine($"{firstName} {lastName} has worked for {numberOfHoursWorked} hour(s)!");
+            NumberOfHoursWorked += numberOfHours; // incrementa o número de horas trabalhadas com base no numberOfHours fornecido
+            Console.WriteLine($"{firstName} {lastName} has worked for {numberOfHours} hour(s)!");
         }
 
         public int CalculateBonus(int bonus)
         {
-            if (numberOfHoursWorked > 10)
+            if (NumberOfHoursWorked > 10)
             {
                 bonus *= 2;
             }
@@ -68,7 +155,7 @@ namespace BethanysPieShopHRM.HR
         {
             bonusTax = 0;
 
-            if (numberOfHoursWorked > 10)
+            if (NumberOfHoursWorked > 10)
                 bonus *= 2;
 
             if (bonus >= 200)
@@ -103,24 +190,24 @@ namespace BethanysPieShopHRM.HR
 
             if (employeeType == EmployeeType.Manager)
             {
-                wage = numberOfHoursWorked * hourlyRate.Value * 1.25;
+                wageBeforeTax = NumberOfHoursWorked * HourlyRate.Value * 1.25;
             }
-            else { 
-                wage = numberOfHoursWorked * hourlyRate.Value; // calculo para obter o salário
+            else {
+                wageBeforeTax = NumberOfHoursWorked * HourlyRate.Value; // calculo para obter o salário
             }
 
             double taxAmount = wageBeforeTax * taxRate;
 
-            wage = wageBeforeTax - taxAmount;
+            Wage = wageBeforeTax - taxAmount;
 
-            Console.WriteLine($"{firstName} {lastName} has received a wage of {wage} for {numberOfHoursWorked} hour(s) of work."); // exibe o salário recebido e as horas trabalhadas
+            Console.WriteLine($"{FirstName} {LastName} has received a wage of {Wage} for {NumberOfHoursWorked} hour(s) of work."); // exibe o salário recebido e as horas trabalhadas
 
             if (resetHours) // verifica se deve resetar as horas trabalhadas
             {
-                numberOfHoursWorked = 0; // reseta as horas trabalhadas para 0
+                NumberOfHoursWorked = 0; // reseta as horas trabalhadas para 0
             }
 
-            return wage; // retorna o salário calculado
+            return Wage; // retorna o salário calculado
         }
 
 
@@ -132,9 +219,9 @@ namespace BethanysPieShopHRM.HR
         public void DisplayEmployeeDetails() // método para exibir os detalhes do funcionário
         {
             Console.WriteLine($"Employee Details:");
-            Console.WriteLine($"Name: {firstName} {lastName}");
-            Console.WriteLine($"Email: {email}");
-            Console.WriteLine($"Birthday: {birthDay.ToShortDateString()}");
+            Console.WriteLine($"Name: {FirstName} {LastName}");
+            Console.WriteLine($"Email: {Email}");
+            Console.WriteLine($"Birthday: {BirthDay.ToShortDateString()}");
         }
 
         // método para converter o objeto Employee em uma string JSON utilizando a biblioteca Newtonsoft.Json de código aberto
@@ -148,7 +235,7 @@ namespace BethanysPieShopHRM.HR
         {
             WageCalculations wageCalculations = new WageCalculations();
 
-            double calculatedValue = wageCalculations.ComplexWageCalculation(wage, taxRate, 3, 42);
+            double calculatedValue = wageCalculations.ComplexWageCalculation(Wage, taxRate, 3, 42);
 
             return calculatedValue;
         }
