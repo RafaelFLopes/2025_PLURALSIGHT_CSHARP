@@ -21,7 +21,6 @@ namespace BethanysPieShopHRM.HR
 
         private const int minimalHoursWorkedUnit = 1; // constante para representar a unidade mínima de horas trabalhadas
         private DateTime birthDay;
-        private EmployeeType employeeType;
 
         public static double taxRate = 0.15; // atributo estático para representar a taxa de imposto aplicável a todos os funcionários
 
@@ -61,7 +60,7 @@ namespace BethanysPieShopHRM.HR
             get {
                 return numberOfHoursWorked;
             }
-            private set {
+            protected set {
                 numberOfHoursWorked = value;
             }
         }
@@ -99,31 +98,17 @@ namespace BethanysPieShopHRM.HR
             }
         }
 
-        public EmployeeType EmployeeType
-        {
-            get {
-                return employeeType;
-            }
-            set {
-                employeeType = value;
-            }
-        }
-
-
-
-
-        public Employee(string firstName, string lastName, string email, DateTime birthDay) : this(firstName, lastName, email, birthDay, 0, EmployeeType.StoreManager) // construtor que inicializa os atributos da class
+        public Employee(string firstName, string lastName, string email, DateTime birthDay) : this(firstName, lastName, email, birthDay, 0) // construtor que inicializa os atributos da class
         {
 
         }
-        public Employee(string firstName, string lastName, string email, DateTime birthDay, double? rate, EmployeeType empType)
+        public Employee(string firstName, string lastName, string email, DateTime birthDay, double? hourlyRate)
         {
             FirstName = firstName;
             LastName = lastName;
             Email = email;
             BirthDay = birthDay;
             HourlyRate = hourlyRate ?? 10;
-            EmployeeType = employeeType;
         }
 
         public void PerformWork() // método para realizar o trabalho, contabilizando as horas trabalhadas
@@ -185,16 +170,7 @@ namespace BethanysPieShopHRM.HR
 
         public double ReceiveWage(bool resetHours = true) // método para calcular o salário com base nas horas trabalhadas e na taxa horária e resetar as horas trabalhadas se necessário
         {
-
-            double wageBeforeTax = 0.0;
-
-            if (employeeType == EmployeeType.Manager)
-            {
-                wageBeforeTax = NumberOfHoursWorked * HourlyRate.Value * 1.25;
-            }
-            else {
-                wageBeforeTax = NumberOfHoursWorked * HourlyRate.Value; // calculo para obter o salário
-            }
+            double wageBeforeTax = NumberOfHoursWorked * HourlyRate.Value; // calculo para obter o salário
 
             double taxAmount = wageBeforeTax * taxRate;
 
