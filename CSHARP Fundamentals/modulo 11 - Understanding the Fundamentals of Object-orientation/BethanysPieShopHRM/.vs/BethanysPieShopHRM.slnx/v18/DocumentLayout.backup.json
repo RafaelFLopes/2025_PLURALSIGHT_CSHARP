@@ -7,6 +7,14 @@
       "RelativeMoniker": "D:0:0:{3E5CE4AC-DD2B-6AA1-0104-E6B676AA2343}|BethanysPieShopHRM\\BethanysPieShopHRM.csproj|solutionrelative:bethanyspieshophrm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{3E5CE4AC-DD2B-6AA1-0104-E6B676AA2343}|BethanysPieShopHRM\\BethanysPieShopHRM.csproj|c:\\users\\win10\\documents\\2025_pluralsight_c#\\csharp fundamentals\\modulo 11 - understanding the fundamentals of object-orientation\\bethanyspieshophrm\\bethanyspieshophrm\\hr\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E5CE4AC-DD2B-6AA1-0104-E6B676AA2343}|BethanysPieShopHRM\\BethanysPieShopHRM.csproj|solutionrelative:bethanyspieshophrm\\hr\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E5CE4AC-DD2B-6AA1-0104-E6B676AA2343}|BethanysPieShopHRM\\BethanysPieShopHRM.csproj|c:\\users\\win10\\documents\\2025_pluralsight_c#\\csharp fundamentals\\modulo 11 - understanding the fundamentals of object-orientation\\bethanyspieshophrm\\bethanyspieshophrm\\hr\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E5CE4AC-DD2B-6AA1-0104-E6B676AA2343}|BethanysPieShopHRM\\BethanysPieShopHRM.csproj|solutionrelative:bethanyspieshophrm\\hr\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{3E5CE4AC-DD2B-6AA1-0104-E6B676AA2343}|BethanysPieShopHRM\\BethanysPieShopHRM.csproj|c:\\users\\win10\\documents\\2025_pluralsight_c#\\csharp fundamentals\\modulo 11 - understanding the fundamentals of object-orientation\\bethanyspieshophrm\\bethanyspieshophrm\\hr\\researcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3E5CE4AC-DD2B-6AA1-0104-E6B676AA2343}|BethanysPieShopHRM\\BethanysPieShopHRM.csproj|solutionrelative:bethanyspieshophrm\\hr\\researcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -25,10 +33,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{3E5CE4AC-DD2B-6AA1-0104-E6B676AA2343}|BethanysPieShopHRM\\BethanysPieShopHRM.csproj|c:\\users\\win10\\documents\\2025_pluralsight_c#\\csharp fundamentals\\modulo 11 - understanding the fundamentals of object-orientation\\bethanyspieshophrm\\bethanyspieshophrm\\hr\\employeetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3E5CE4AC-DD2B-6AA1-0104-E6B676AA2343}|BethanysPieShopHRM\\BethanysPieShopHRM.csproj|solutionrelative:bethanyspieshophrm\\hr\\employeetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3E5CE4AC-DD2B-6AA1-0104-E6B676AA2343}|BethanysPieShopHRM\\BethanysPieShopHRM.csproj|c:\\users\\win10\\documents\\2025_pluralsight_c#\\csharp fundamentals\\modulo 11 - understanding the fundamentals of object-orientation\\bethanyspieshophrm\\bethanyspieshophrm\\hr\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3E5CE4AC-DD2B-6AA1-0104-E6B676AA2343}|BethanysPieShopHRM\\BethanysPieShopHRM.csproj|solutionrelative:bethanyspieshophrm\\hr\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3E5CE4AC-DD2B-6AA1-0104-E6B676AA2343}|BethanysPieShopHRM\\BethanysPieShopHRM.csproj|c:\\users\\win10\\documents\\2025_pluralsight_c#\\csharp fundamentals\\modulo 11 - understanding the fundamentals of object-orientation\\bethanyspieshophrm\\bethanyspieshophrm\\hr\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -67,19 +71,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "JuniorResearcher.cs",
-              "DocumentMoniker": "C:\\Users\\Win10\\Documents\\2025_PLURALSIGHT_C#\\CSHARP Fundamentals\\modulo 11 - Understanding the Fundamentals of Object-orientation\\BethanysPieShopHRM\\BethanysPieShopHRM\\HR\\JuniorResearcher.cs",
-              "RelativeDocumentMoniker": "BethanysPieShopHRM\\HR\\JuniorResearcher.cs",
-              "ToolTip": "C:\\Users\\Win10\\Documents\\2025_PLURALSIGHT_C#\\CSHARP Fundamentals\\modulo 11 - Understanding the Fundamentals of Object-orientation\\BethanysPieShopHRM\\BethanysPieShopHRM\\HR\\JuniorResearcher.cs",
-              "RelativeToolTip": "BethanysPieShopHRM\\HR\\JuniorResearcher.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Title": "Address.cs",
+              "DocumentMoniker": "C:\\Users\\Win10\\Documents\\2025_PLURALSIGHT_C#\\CSHARP Fundamentals\\modulo 11 - Understanding the Fundamentals of Object-orientation\\BethanysPieShopHRM\\BethanysPieShopHRM\\HR\\Address.cs",
+              "RelativeDocumentMoniker": "BethanysPieShopHRM\\HR\\Address.cs",
+              "ToolTip": "C:\\Users\\Win10\\Documents\\2025_PLURALSIGHT_C#\\CSHARP Fundamentals\\modulo 11 - Understanding the Fundamentals of Object-orientation\\BethanysPieShopHRM\\BethanysPieShopHRM\\HR\\Address.cs",
+              "RelativeToolTip": "BethanysPieShopHRM\\HR\\Address.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwCsAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-06T00:59:47.923Z",
+              "WhenOpened": "2026-01-06T01:29:06.339Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Researcher.cs",
               "DocumentMoniker": "C:\\Users\\Win10\\Documents\\2025_PLURALSIGHT_C#\\CSHARP Fundamentals\\modulo 11 - Understanding the Fundamentals of Object-orientation\\BethanysPieShopHRM\\BethanysPieShopHRM\\HR\\Researcher.cs",
               "RelativeDocumentMoniker": "BethanysPieShopHRM\\HR\\Researcher.cs",
@@ -87,12 +91,11 @@
               "RelativeToolTip": "BethanysPieShopHRM\\HR\\Researcher.cs",
               "ViewState": "AgIAAA0AAAAAAAAAAAAiwCkAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-06T00:59:02.33Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-06T00:59:02.33Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Developer.cs",
               "DocumentMoniker": "C:\\Users\\Win10\\Documents\\2025_PLURALSIGHT_C#\\CSHARP Fundamentals\\modulo 11 - Understanding the Fundamentals of Object-orientation\\BethanysPieShopHRM\\BethanysPieShopHRM\\HR\\Developer.cs",
               "RelativeDocumentMoniker": "BethanysPieShopHRM\\HR\\Developer.cs",
@@ -100,12 +103,11 @@
               "RelativeToolTip": "BethanysPieShopHRM\\HR\\Developer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-06T00:56:09.161Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-06T00:56:09.161Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "StoreManager.cs",
               "DocumentMoniker": "C:\\Users\\Win10\\Documents\\2025_PLURALSIGHT_C#\\CSHARP Fundamentals\\modulo 11 - Understanding the Fundamentals of Object-orientation\\BethanysPieShopHRM\\BethanysPieShopHRM\\HR\\StoreManager.cs",
               "RelativeDocumentMoniker": "BethanysPieShopHRM\\HR\\StoreManager.cs",
@@ -113,12 +115,11 @@
               "RelativeToolTip": "BethanysPieShopHRM\\HR\\StoreManager.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-06T00:55:19.935Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-06T00:55:19.935Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "Manager.cs",
               "DocumentMoniker": "C:\\Users\\Win10\\Documents\\2025_PLURALSIGHT_C#\\CSHARP Fundamentals\\modulo 11 - Understanding the Fundamentals of Object-orientation\\BethanysPieShopHRM\\BethanysPieShopHRM\\HR\\Manager.cs",
               "RelativeDocumentMoniker": "BethanysPieShopHRM\\HR\\Manager.cs",
@@ -126,12 +127,11 @@
               "RelativeToolTip": "BethanysPieShopHRM\\HR\\Manager.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-06T00:27:22.942Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-06T00:27:22.942Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "BethanysPieShopHRM.csproj",
               "DocumentMoniker": "C:\\Users\\Win10\\Documents\\2025_PLURALSIGHT_C#\\CSHARP Fundamentals\\modulo 11 - Understanding the Fundamentals of Object-orientation\\BethanysPieShopHRM\\BethanysPieShopHRM\\BethanysPieShopHRM.csproj",
               "RelativeDocumentMoniker": "BethanysPieShopHRM\\BethanysPieShopHRM.csproj",
@@ -143,7 +143,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "WorkTask.cs",
               "DocumentMoniker": "C:\\Users\\Win10\\Documents\\2025_PLURALSIGHT_C#\\CSHARP Fundamentals\\modulo 11 - Understanding the Fundamentals of Object-orientation\\BethanysPieShopHRM\\BethanysPieShopHRM\\HR\\WorkTask.cs",
               "RelativeDocumentMoniker": "BethanysPieShopHRM\\HR\\WorkTask.cs",
@@ -151,12 +151,11 @@
               "RelativeToolTip": "BethanysPieShopHRM\\HR\\WorkTask.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-31T03:55:24.084Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-31T03:55:24.084Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "EmployeeType.cs",
               "DocumentMoniker": "C:\\Users\\Win10\\Documents\\2025_PLURALSIGHT_C#\\CSHARP Fundamentals\\modulo 11 - Understanding the Fundamentals of Object-orientation\\BethanysPieShopHRM\\BethanysPieShopHRM\\HR\\EmployeeType.cs",
               "RelativeDocumentMoniker": "BethanysPieShopHRM\\HR\\EmployeeType.cs",
@@ -164,8 +163,7 @@
               "RelativeToolTip": "BethanysPieShopHRM\\HR\\EmployeeType.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-31T03:55:09.29Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-31T03:55:09.29Z"
             },
             {
               "$type": "Document",
@@ -173,29 +171,41 @@
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Win10\\Documents\\2025_PLURALSIGHT_C#\\CSHARP Fundamentals\\modulo 11 - Understanding the Fundamentals of Object-orientation\\BethanysPieShopHRM\\BethanysPieShopHRM\\Program.cs",
               "RelativeDocumentMoniker": "BethanysPieShopHRM\\Program.cs",
-              "ToolTip": "C:\\Users\\Win10\\Documents\\2025_PLURALSIGHT_C#\\CSHARP Fundamentals\\modulo 11 - Understanding the Fundamentals of Object-orientation\\BethanysPieShopHRM\\BethanysPieShopHRM\\Program.cs",
-              "RelativeToolTip": "BethanysPieShopHRM\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAhAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Win10\\Documents\\2025_PLURALSIGHT_C#\\CSHARP Fundamentals\\modulo 11 - Understanding the Fundamentals of Object-orientation\\BethanysPieShopHRM\\BethanysPieShopHRM\\Program.cs*",
+              "RelativeToolTip": "BethanysPieShopHRM\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-31T03:46:20.897Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 1,
               "Title": "Employee.cs",
               "DocumentMoniker": "C:\\Users\\Win10\\Documents\\2025_PLURALSIGHT_C#\\CSHARP Fundamentals\\modulo 11 - Understanding the Fundamentals of Object-orientation\\BethanysPieShopHRM\\BethanysPieShopHRM\\HR\\Employee.cs",
               "RelativeDocumentMoniker": "BethanysPieShopHRM\\HR\\Employee.cs",
               "ToolTip": "C:\\Users\\Win10\\Documents\\2025_PLURALSIGHT_C#\\CSHARP Fundamentals\\modulo 11 - Understanding the Fundamentals of Object-orientation\\BethanysPieShopHRM\\BethanysPieShopHRM\\HR\\Employee.cs",
               "RelativeToolTip": "BethanysPieShopHRM\\HR\\Employee.cs",
-              "ViewState": "AgIAACgAAAAAAAAAAAAUwD4AAAAbAAAAAAAAAA==",
+              "ViewState": "AgIAADMAAAAAAAAAAAAQwGYAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-31T03:54:55.26Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 4,
+              "Title": "JuniorResearcher.cs",
+              "DocumentMoniker": "C:\\Users\\Win10\\Documents\\2025_PLURALSIGHT_C#\\CSHARP Fundamentals\\modulo 11 - Understanding the Fundamentals of Object-orientation\\BethanysPieShopHRM\\BethanysPieShopHRM\\HR\\JuniorResearcher.cs",
+              "RelativeDocumentMoniker": "BethanysPieShopHRM\\HR\\JuniorResearcher.cs",
+              "ToolTip": "C:\\Users\\Win10\\Documents\\2025_PLURALSIGHT_C#\\CSHARP Fundamentals\\modulo 11 - Understanding the Fundamentals of Object-orientation\\BethanysPieShopHRM\\BethanysPieShopHRM\\HR\\JuniorResearcher.cs",
+              "RelativeToolTip": "BethanysPieShopHRM\\HR\\JuniorResearcher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-06T00:59:47.923Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "Customer.cs",
               "DocumentMoniker": "C:\\Users\\Win10\\Documents\\2025_PLURALSIGHT_C#\\CSHARP Fundamentals\\modulo 11 - Understanding the Fundamentals of Object-orientation\\BethanysPieShopHRM\\BethanysPieShopHRM\\Accounting\\Customer.cs",
               "RelativeDocumentMoniker": "BethanysPieShopHRM\\Accounting\\Customer.cs",
@@ -207,7 +217,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "Account.cs",
               "DocumentMoniker": "C:\\Users\\Win10\\Documents\\2025_PLURALSIGHT_C#\\CSHARP Fundamentals\\modulo 11 - Understanding the Fundamentals of Object-orientation\\BethanysPieShopHRM\\BethanysPieShopHRM\\Accounting\\Account.cs",
               "RelativeDocumentMoniker": "BethanysPieShopHRM\\Accounting\\Account.cs",
@@ -215,8 +225,7 @@
               "RelativeToolTip": "BethanysPieShopHRM\\Accounting\\Account.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-31T03:54:26.517Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-31T03:54:26.517Z"
             }
           ]
         }

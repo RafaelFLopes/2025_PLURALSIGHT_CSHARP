@@ -5,7 +5,9 @@ Manager rafael = new Manager("Rafael", "Lopes", "rafael.lopes@gmail.com", new Da
 
 JuniorResearcher bobPedro = new JuniorResearcher("Bob", "Pedro", "bob.pedro@gmail.com", new DateTime (1995, 11, 15), 20);
 
-
+Employee Samuel = new Employee("Samuel", "Lopes", "samuel.lopes@gmail.com", new DateTime(1995, 11, 15), 25, "new street", "123", "12345-678", "New City");
+string streetName = Samuel.Address.Street;
+Console.WriteLine($"Samuel's street name is: {streetName}");
 
 bethany.DisplayEmployeeDetails();
 

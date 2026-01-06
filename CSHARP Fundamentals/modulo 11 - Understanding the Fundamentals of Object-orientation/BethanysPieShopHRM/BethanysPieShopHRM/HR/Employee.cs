@@ -19,6 +19,8 @@ namespace BethanysPieShopHRM.HR
         private double wage;
         private double? hourlyRate;
 
+        private Address address;
+
         private const int minimalHoursWorkedUnit = 1; // constante para representar a unidade mínima de horas trabalhadas
         private DateTime birthDay;
 
@@ -98,7 +100,13 @@ namespace BethanysPieShopHRM.HR
             }
         }
 
-        public Employee(string firstName, string lastName, string email, DateTime birthDay) : this(firstName, lastName, email, birthDay, 0) // construtor que inicializa os atributos da class
+        public Address Address
+        {
+            get { return address; }
+            set { address = value; }
+        }
+
+        public Employee(string firstName, string lastName, string email, DateTime birthDay) : this (firstName, lastName, email, birthDay, 0) // construtor que inicializa os atributos da class
         {
 
         }
@@ -109,6 +117,17 @@ namespace BethanysPieShopHRM.HR
             Email = email;
             BirthDay = birthDay;
             HourlyRate = hourlyRate ?? 10;
+            
+        }
+        public Employee(string firstName, string lastName, string email, DateTime birthDay, double? hourlyRate, string street, string houseNumber, string zip, string city)
+        {
+            FirstName = firstName;
+            LastName = lastName;
+            Email = email;
+            BirthDay = birthDay;
+            HourlyRate = hourlyRate ?? 10;
+
+            Address = new Address(street, houseNumber, zip, city);
         }
 
         public void PerformWork() // método para realizar o trabalho, contabilizando as horas trabalhadas
