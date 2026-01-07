@@ -211,6 +211,12 @@ namespace BethanysPieShopHRM.HR
             Console.WriteLine($"The current tax rate is {taxRate}");
         }
 
+
+        public virtual void GiveBonus() // método virtual para dar um bônus ao funcionário que pode ser sobrescrito por classes herdadas
+        {
+            Console.WriteLine($"{FirstName} {LastName} has received a standard bonus: 100 doll.");
+        }
+
         public void DisplayEmployeeDetails() // método para exibir os detalhes do funcionário
         {
             Console.WriteLine($"Employee Details:");
