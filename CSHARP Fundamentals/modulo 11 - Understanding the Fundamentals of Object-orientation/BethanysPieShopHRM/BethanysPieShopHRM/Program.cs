@@ -1,15 +1,15 @@
 ﻿using BethanysPieShopHRM.HR;
 
-Employee bethany = new Employee("Bethany", "Smith", "bethany.smith@gmail.com", new DateTime (2001, 05, 03), 25);
+IEmployee bethany = new Employee("Bethany", "Smith", "bethany.smith@gmail.com", new DateTime (2001, 05, 03), 25);
 
-Manager rafael = new Manager("Rafael", "Lopes", "rafael.lopes@gmail.com", new DateTime (2008, 03, 25), 30);
+IEmployee rafael = new Manager("Rafael", "Lopes", "rafael.lopes@gmail.com", new DateTime (2008, 03, 25), 30);
 
-JuniorResearcher bobPedro = new JuniorResearcher("Bob", "Pedro", "bob.pedro@gmail.com", new DateTime (1995, 11, 15), 20);
+IEmployee bobPedro = new JuniorResearcher("Bob", "Pedro", "bob.pedro@gmail.com", new DateTime (1995, 11, 15), 20);
 
-Employee Samuel = new Employee("Samuel", "Lopes", "samuel.lopes@gmail.com", new DateTime(1995, 11, 15), 25, "new street", "123", "12345-678", "New City");
+IEmployee Samuel = new Employee("Samuel", "Lopes", "samuel.lopes@gmail.com", new DateTime(1995, 11, 15), 25, "new street", "123", "12345-678", "New City");
 
 
-List<Employee> employees = new List<Employee>();
+List<IEmployee> employees = new List<IEmployee>();
 
 employees.Add(bethany);
 employees.Add(rafael);
@@ -20,6 +20,7 @@ foreach (Employee emp in employees)
 {
     emp.DisplayEmployeeDetails();
     emp.GiveBonus();
+    emp.GiveCompliment();
     Console.WriteLine();
 }
 

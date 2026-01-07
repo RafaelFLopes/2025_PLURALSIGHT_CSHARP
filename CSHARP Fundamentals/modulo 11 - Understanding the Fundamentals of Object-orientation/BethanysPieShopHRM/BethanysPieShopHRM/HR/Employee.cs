@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 
 namespace BethanysPieShopHRM.HR
 {
-    internal class Employee
+    internal class Employee : IEmployee
     { // criando a classe funcinario e adicionando atributos e metodos
         private string firstName; // criando atributos
         private string lastName;
@@ -241,5 +241,9 @@ namespace BethanysPieShopHRM.HR
             return calculatedValue;
         }
 
+        public void GiveCompliment()
+        {
+            Console.WriteLine($"{FirstName} {LastName} has received a compliment for a job well done!");
+        }
     }
 }
