@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 
 namespace BethanysPieShopHRM.HR
 {
-    internal class Employee : IEmployee
+    public class Employee : IEmployee
     { // criando a classe funcinario e adicionando atributos e metodos
         private string firstName; // criando atributos
         private string lastName;

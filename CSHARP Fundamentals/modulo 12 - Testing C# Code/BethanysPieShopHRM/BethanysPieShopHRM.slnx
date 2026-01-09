@@ -1,3 +1,4 @@
 <Solution>
+  <Project Path="BethanysPieShopHRM.Tests/BethanysPieShopHRM.Tests.csproj" Id="59512ff5-f33f-409c-a695-6f46e7a5869a" />
   <Project Path="BethanysPieShopHRM/BethanysPieShopHRM.csproj" />
 </Solution>
