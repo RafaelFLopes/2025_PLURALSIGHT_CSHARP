@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7M/kwxkkFn0=",
+  "dgSpecHash": "FQ/UXV3gZD8=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Win10\\Documents\\2025_PLURALSIGHT_C#\\CSHARP Fundamentals\\modulo 12 - Testing C# Code\\BethanysPieShopHRM\\BethanysPieShopHRM.Tests\\BethanysPieShopHRM.Tests.csproj",
+  "projectFilePath": "C:\\Users\\Win10\\Documents\\2025_PLURALSIGHT_C#\\CSHARP Fundamentals\\modulo 13 - Reading from and Writing to Files\\BethanysPieShopHRM\\BethanysPieShopHRM.Tests\\BethanysPieShopHRM.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Win10\\.nuget\\packages\\coverlet.collector\\6.0.0\\coverlet.collector.6.0.0.nupkg.sha512",
     "C:\\Users\\Win10\\.nuget\\packages\\microsoft.codecoverage\\17.8.0\\microsoft.codecoverage.17.8.0.nupkg.sha512",

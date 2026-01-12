@@ -1,17 +1,57 @@
-﻿using BethanysPieShopHRM.HR;
+﻿using BethanysPieShopHRM;
+using BethanysPieShopHRM.HR;
 
-IEmployee bethany = new Employee("Bethany", "Smith", "bethany.smith@gmail.com", new DateTime (2001, 05, 03), 25);
+List<Employee> employees = new List<Employee>();
 
-Console.WriteLine("How many hours do we need to register for Bethany?");
+Console.ForegroundColor = ConsoleColor.Green;
+Console.WriteLine("********************************************");
+Console.WriteLine("* Welcome to Bethany's Pie Shop HRM System *");
+Console.WriteLine("********************************************");
+Console.ForegroundColor = ConsoleColor.White;
 
-int numberOfHours = 0;
 
-string input = Console.ReadLine();
+String userSelection;
 
-numberOfHours = int.Parse(input);
+Utilities.CheckForExistingEmployeeFile();
 
-bethany.DisplayEmployeeDetails();
+do
+{
+    Console.ForegroundColor = ConsoleColor.Cyan;
+    Console.WriteLine($"Loaded {employees.Count} employee(s)\n\n");
 
-bethany.PerformWork();
+    Console.WriteLine("********************");
+    Console.WriteLine("* Select an action *");
+    Console.WriteLine("********************");
 
-bethany.PerformWork(numberOfHours);
+    Console.WriteLine("1: Register employee");
+    Console.WriteLine("2: View all employees");
+    Console.WriteLine("3: Save data");
+    Console.WriteLine("4: Load data");
+    Console.WriteLine("99: Exit application");
+
+    userSelection = Console.ReadLine();
+
+    switch (userSelection)
+    {
+        case "1":
+            Utilities.RegisterEmployee(employees);
+            break;
+        case "2":
+            Utilities.ViewAllEmployees(employees);
+            break;
+        case "3":
+            Utilities.SaveEmployees(employees);
+            break;
+        case "4":
+            Utilities.LoadEmployees(employees);
+            break;
+        case "99":
+            break;
+        default:
+            Console.WriteLine("Invalid selection, please try again.");
+            break;
+    }
+
+} while (userSelection != "99");
+
+Console.WriteLine("Exiting application, goodbye!");
